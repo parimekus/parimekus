@@ -7,6 +7,10 @@
 
 - 🔭 В настоящее время я работаю над **StrictD_Dos**
 
+- 📫 Как связаться со мной **Discord: parimek**
+
+- ⚡ Интересный факт **Я играю в майнкрафт :-)**
+
 <h3 align="left">Свяжитесь со мной:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/parimekus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="parimekus" height="30" width="40" /></a>
