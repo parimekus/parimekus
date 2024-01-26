@@ -25,3 +25,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parimekus&show_icons=true&locale=en" alt="parimekus" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parimekus&" alt="parimekus" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=parimekus)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parimekus)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=parimekus&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/parimekus/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/parimekus)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=parimekus)  
