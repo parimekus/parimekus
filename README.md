@@ -1,5 +1,6 @@
 <h1 align="center">Привет 👋, я Паримэк</h1>
 <h3 align="center">Живучий гад из России 🇷🇺</h3>
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26287%26project%3D%26in=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parimekus&label=Profile%20views&color=0e75b6&style=flat" alt="parimekus" /> </p>
 
