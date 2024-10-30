@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parimekus" alt="parimekus" /></a> </p>
 
-- 🔭 В настоящее время я работаю над **StrictD_Dos**
+- 🔭 В настоящее время я работаю над **StrictBroadCast 2.0**
 
-- 📫 Cвязаться со мной можно в Discord: **parimek**
+- 📫 Cвязаться со мной можно в Discord: **interesno_kto_ya**
 
 - ⚡ Интересный факт **Я играю в майнкрафт :-)**
 
